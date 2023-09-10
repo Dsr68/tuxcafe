@@ -1,0 +1,7 @@
+body{
+    --amarelo-claro: #e8c156;
+}
+
+.amarelo{
+    background-color: var(--amarelo-claro);
+}
